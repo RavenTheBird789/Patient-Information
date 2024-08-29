@@ -1,5 +1,4 @@
-# Patient-Information
-# Patient Questions
+# Patient-Information Questions
 name = input("What's your name?: ") # patients name
 age = input("How old are you?: ") # patients age
 date_of_birth = input("Date of birth?: ") # patients date of birth
